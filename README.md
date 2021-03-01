@@ -11,6 +11,8 @@
 
 ##### E-mail: pitluk22@gmail.com
 
+##### favorite teches:
+
 <p>
     <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" height="50">
     <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" height="50">
