@@ -5,7 +5,12 @@
 -   🔭 I’m currently practice writing programs on Reactjs and TypeScript
 -   🤝 I’m open to communication and ready to take part in any project
 
--   📫 How can you reach me: ##### Telegram: [@Pit_luk](https://t.me/Pit_luk 'Мой телеграм') ##### E-mail: pitluk22@gmail.com
+-   📫 How can you reach me:
+
+##### Telegram: [@Pit_luk](https://t.me/Pit_luk 'Мой телеграм')
+
+##### E-mail: pitluk22@gmail.com
+
 <p>
     <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" height="50">
     <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" height="50">
