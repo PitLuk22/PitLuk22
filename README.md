@@ -1,6 +1,6 @@
 #### Hi Everyone! 👨‍💻 I'm a beginner Web Developer 👋
 
--   🌐 I am a beginner web developer in Moscow, Russia. I write sites and I love it
+-   🌐 I am a beginner web developer from Moscow, Russia. I write sites and I love it
 -   🏂 I am fond of snowbording (I can't imagine myself without extreme)
 -   🔭 I’m currently practice writing programs on Reactjs and TypeScript
 -   🤝 I’m open to communication and ready to take part in any project
